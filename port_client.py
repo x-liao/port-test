@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 import socket
 
-host  = '127.0.0.1' # 要测试的ip
-port = 50050 #测试端口
+host  = '175.102.132.197' # 要测试的ip
+port = 58080 #测试端口
 bufsize = 1024  #定义缓冲大小
 
 tcp = True
